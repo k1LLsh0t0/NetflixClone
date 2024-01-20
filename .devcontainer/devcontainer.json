@@ -8,6 +8,13 @@
 		"ghcr.io/devcontainers/features/node:1": {},
 		"ghcr.io/devcontainers-contrib/features/firebase-cli:2": {},
 		"ghcr.io/devcontainers-contrib/features/npm-package:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"dsznajder.es7-react-js-snippets"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
